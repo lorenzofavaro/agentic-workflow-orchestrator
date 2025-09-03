@@ -1,7 +1,7 @@
 # Agentic Workflow Orchestrator
 
 ## Overview
-This repository presents an Agentic Workflow Orchestrator—a modular framework for coordinating multiple AI agents in complex, collaborative decision-making pipelines. The system enables the integration of diverse agent roles (planning, judging, debating, verifying, and routing) and supports interaction with various AI providers through an adapter pattern.
+This repository presents an Agentic Workflow Orchestrator, a modular framework for coordinating multiple AI agents in collaborative decision-making pipelines. The system enables the integration of diverse agent roles (planning, judging, debating, verifying, and routing) and supports interaction with various AI providers.
 
 ## Architecture
 ![Architecture](docs/images/architecture.png)
